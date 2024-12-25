@@ -1,0 +1,4 @@
+streamlit==1.41.1
+PyAudio==0.2.14
+elevenlabs==1.50.3
+streamlit-aggrid==1.0.5
